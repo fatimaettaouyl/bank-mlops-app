@@ -10,3 +10,5 @@ pytest
 dvc
 joblib
 pydantic
+httpx
+skops
