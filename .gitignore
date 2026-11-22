@@ -1,0 +1,32 @@
+
+# Environnements Python
+venv/
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets et configurations locales
+.env
+.env.*
+!.env.example
+
+# Données brutes et locales
+data/
+
+# MLflow : stockage local
+mlruns/
+mlflow.db
+
+# Cache DVC
+.dvc/cache/
+
+# Fichiers système
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Fichiers temporaires
+*.log

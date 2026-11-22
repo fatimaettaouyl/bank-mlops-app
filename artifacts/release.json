@@ -1,0 +1,14 @@
+{
+    "model_uri": "models:/bank-marketing-classifier/1",
+    "model_version": 1,
+    "data_version": "initial",
+    "git_sha": "local",
+    "run_id": "2348f519b2804bfd8d312f4a0d3c9a0d",
+    "metrics": {
+        "accuracy": 0.8651371692158291,
+        "balanced_accuracy": 0.8854359285815369,
+        "precision": 0.4512,
+        "recall": 0.9116379310344828,
+        "f1": 0.6036389582590082
+    }
+}
